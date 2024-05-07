@@ -1,0 +1,23 @@
+[33mcommit 147877d6a2afcc3063f59fa36ee9a3dad09cb535[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mDevelop[m[33m, [m[1;31morigin/Develop[m[33m)[m
+Author: tclear <tclear@users.noreply.github.com>
+Date:   Tue Mar 23 14:58:47 2021 +1300
+
+    Update guidelines.html
+    
+    Removed "optionally embedded" to avoid storage costs of embedding resource intensive multi-media files
+
+[33mcommit 56fea62232ac01492d5970d8aed06f900605234c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: tclear <tclear@users.noreply.github.com>
+Date:   Tue Mar 23 13:15:28 2021 +1300
+
+    Create README.md
+    
+    Computing Technology in Society - Project Base Mock-up Site.  Site contains index page for the site, images, CSS styles and miscellaneous pages.  Essentially a site for the project, hosting the different aspects of the profile of the team's chosen technology or topic and the supporting assignment activities in the process support pages.
+
+[33mcommit 1b8c5bfdafa551452543f1c689e9963a48a408d0[m
+Author: tclear <tclear@users.noreply.github.com>
+Date:   Tue Mar 23 13:07:18 2021 +1300
+
+    Add files via upload
+    
+    Computing and Technology in Society - base mockup project site
